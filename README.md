@@ -26,6 +26,7 @@
  - Focus on Fonts , Spacing.
  
 ![image](Images/Stage_3.jpg)
+
 ![image](Images/Stage_4.jpg)
 # Stage 4
  **Final Dashboard**
