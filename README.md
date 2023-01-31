@@ -13,7 +13,7 @@
  - Create different charts based on data available
  - Chart Layout ( Title , Label , Colour)
  
- ![image](Images/Stage_2.jpg)
+ ![image](Images/Stage_2.png)
  
  
  # Stage 3 
@@ -25,11 +25,11 @@
  - Focus on formating
  - Focus on Fonts , Spacing.
  
-![image](Images/Stage_3.jpg)
+![image](Images/Stage_3.png)
 
 ![image](Images/Stage_4.jpg)
 # Stage 4
  **Final Dashboard**
  - FInal Dashboardis ready.
- ![image](Images/Final_View.jpg)
+ ![image](Images/Final_View.png)
  
