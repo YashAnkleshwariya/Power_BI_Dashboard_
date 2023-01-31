@@ -27,7 +27,7 @@
  
 ![image](Images/Stage_3.png)
 
-![image](Images/Stage_4.jpg)
+![image](Images/Stage_4.png)
 # Stage 4
  **Final Dashboard**
  - FInal Dashboardis ready.
