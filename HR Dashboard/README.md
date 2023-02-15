@@ -1,19 +1,21 @@
 # Power_BI_Dashboard
  
 # Stage 1 
-**Creating 4 KPI's for Dashboard**
- - No need to focus on formating
- - Creating 4 Important KPI's for Dashboard
+**Data Preperation**
+ - Analyse Data
+ - Data Cleaning (Checking missing values)
+ - Data Prepration
  
- ![image](Images/Stage_1.png)
+
 
  
  # Stage 2 
- **Creating Charts**
- - Create different charts based on data available
- - Chart Layout ( Title , Label , Colour)
+ **Dashboard design**
+ - Define KPI and Metrix
+ - Design Layout
  
- ![image](Images/Stage_2.png)
+ 
+ ![image](Images/HR_Dashboard_Stage_2.png)
  
  
  # Stage 3 
@@ -25,11 +27,7 @@
  - Focus on formating
  - Focus on Fonts , Spacing.
  
-![image](Images/Stage_3.png)
+![image](Images/HR_Dashboard_Stage_3.png)
 
-![image](Images/Stage_4.png)
-# Stage 4
- **Final Dashboard**
- - FInal Dashboardis ready.
- ![image](Images/Final_View.png)
+
  
