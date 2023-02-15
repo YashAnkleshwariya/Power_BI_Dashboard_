@@ -15,7 +15,7 @@
  - Design Layout
  
  
-	![This is an image](Images/HR_Dashboard_Stage_2.png)
+	![image](Images/HR_Dashboard_Stage_2.png)
 	![This is an image](https://myoctocat.com/assets/Images/HR_Dashboard_Stage_2.png)
  
  # Stage 3 
