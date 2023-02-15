@@ -16,7 +16,7 @@
  
  
 	![image](Images/HR_Dashboard_Stage_2.png)
-	![This is an image](https://myoctocat.com/assets/Images/HR_Dashboard_Stage_2.png)
+
  
  # Stage 3 
  **Creating Dashboard**
