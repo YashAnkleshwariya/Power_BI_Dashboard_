@@ -15,7 +15,11 @@
  - Design Layout
  
  
+<<<<<<< HEAD
 	![image](Images/HR_Dashboard_Stage_2.png)
+=======
+![image](Documents/Data Sciesnce Repository/Power_BI_Dashboard/Images/HR_Dashboard_Stage_2.png)
+>>>>>>> ef58282103824a640997d7ab8b9166ad1cf2d74e
 	
 
  
