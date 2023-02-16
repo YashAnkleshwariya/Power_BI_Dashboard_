@@ -30,6 +30,6 @@
 ![Stage_4](https://user-images.githubusercontent.com/118588061/219268025-03f75f1c-9b4d-4920-8382-090c4970b41c.png)
 # Stage 4
  **Final Dashboard**
- - Final Dashboardis ready.
+ - Final Dashboard is ready.
  ![Final_View](https://user-images.githubusercontent.com/118588061/219268212-fe40af67-af5b-4f95-9841-a4cafb7bb531.png)
  
