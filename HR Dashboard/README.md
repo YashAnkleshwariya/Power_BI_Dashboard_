@@ -16,7 +16,7 @@
  
  
 
-	![image](Images/HR_Dashboard_Stage_2.png)
+![HR_Dashboard_Stage_2](https://user-images.githubusercontent.com/118588061/219267318-28774af7-607e-4e15-a8a9-4d447fba0276.png)
 
 	
 
