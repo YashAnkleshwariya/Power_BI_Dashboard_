@@ -30,7 +30,7 @@
  - Focus on formating
  - Focus on Fonts , Spacing.
  
-![image](Images/HR_Dashboard_Stage_3.png)
+![HR_Dashboard_Stage_3](https://user-images.githubusercontent.com/118588061/219267516-e139dd2e-8abc-45ef-86ad-648fb36b606f.PNG)
 
 
  
