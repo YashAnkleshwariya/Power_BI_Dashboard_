@@ -15,7 +15,7 @@
  - Design Layout
  
  
-	![image](Documents/Data Sciesnce Repository/Power_BI_DashboardImages/HR_Dashboard_Stage_2.png)
+	![image](Images/HR_Dashboard_Stage_2.png)
 	
 
  
