@@ -13,7 +13,7 @@
  - Create different charts based on data available
  - Chart Layout ( Title , Label , Colour)
  
- ![image](Images/Stage_2.png)
+ ![Stage_2](https://user-images.githubusercontent.com/118588061/219267914-d7e4c615-e734-45d8-9d64-657594f2fb79.png)
  
  
  # Stage 3 
@@ -25,9 +25,9 @@
  - Focus on formating
  - Focus on Fonts , Spacing.
  
-![image](Images/Stage_3.png)
+![Stage_3](https://user-images.githubusercontent.com/118588061/219267980-440ec667-0c0f-4525-91b9-90b0746a2489.png)
 
-![image](Images/Stage_4.png)
+![Stage_4](https://user-images.githubusercontent.com/118588061/219268025-03f75f1c-9b4d-4920-8382-090c4970b41c.png)
 # Stage 4
  **Final Dashboard**
  - FInal Dashboardis ready.
