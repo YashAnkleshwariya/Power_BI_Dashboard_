@@ -5,7 +5,7 @@
  - No need to focus on formating
  - Creating 4 Important KPI's for Dashboard
  
- ![image](Images/Stage_1.png)
+ ![Stage_1](https://user-images.githubusercontent.com/118588061/219267760-1db609ba-4ed3-4bde-9cda-5d05774f4b8f.png)
 
  
  # Stage 2 
